@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+.DS_Store
+
+# Distribution / packaging
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
